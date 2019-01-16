@@ -19,7 +19,7 @@
 c'est un petit site j'éspère qu'il va vous plaire.
 </p>
 
-<!--Bied du page-->
+<!--pied du page-->
 <?php include("footer.php");  ?>
 </body>
 </html>
